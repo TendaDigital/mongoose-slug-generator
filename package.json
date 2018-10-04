@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-slug-generator",
-  "version": "1.0.4",
+  "name": "@tenda.digital/mongoose-slug-generator",
+  "version": "1.2.0",
   "description": "Mongoose plugin to create slugs and unique slugs in any field",
   "main": "index.js",
   "directories": {
@@ -34,7 +34,9 @@
   "author": "Kubide <hola@kubide.es> (http://kubide.es)",
   "contributors": [
     "Ángel Luis Quesada <angel.quesada@kubide.es> (http://gelito.me)",
-    "Eneko Lakasta <eneko.lakasta@kubide.es>"
+    "Eneko Lakasta <eneko.lakasta@kubide.es>",
+    "Tenda Digital <developers@tenda.digital>",
+    "Ivan Seidel <ivan@tenda.digital>"
   ],
   "license": "MIT",
   "bugs": {
