@@ -1,6 +1,6 @@
 {
   "name": "@tenda.digital/mongoose-slug-generator",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Mongoose plugin to create slugs and unique slugs in any field",
   "main": "index.js",
   "directories": {
